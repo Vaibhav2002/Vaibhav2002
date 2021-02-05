@@ -71,7 +71,6 @@
   ![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green)
   
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Vaibhav2002" frameborder="0"></iframe>
-<br/>
 
 
 [website]: https://vaibhav2002.github.io
