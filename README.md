@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on Android Development technologies like Kotlin, Android Jetpack etc.
 - 📚 I’m currently learning everything about Android development 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play video games like 🎱.
+- ⚡ Fun fact: I love to play video games like CS:GO.
 
 ---
 
