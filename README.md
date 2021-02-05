@@ -52,6 +52,7 @@
 <br>
 
 ###Platforms
+
 <img alt="Instagram" src="https://img.shields.io/badge/Vaibhav Jaiswal%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/vaibhav.jaiswal.2511/"/>
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
@@ -66,11 +67,11 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-
-  ![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green)
+ <h2 align="center"> Github Statistics 📈 </h2>
+ 
+![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green) <br>
   
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Vaibhav2002" frameborder="0"></iframe>
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&show_icons=true&theme=radical)
 
 
 [website]: https://vaibhav2002.github.io
