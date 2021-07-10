@@ -51,7 +51,12 @@
  <h2 align="center"> Github Statistics 📈 </h2>
  
 ![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green) <br>
+
+---
   
+### If you like my projects and want to support me to build more cool open spurce projects
+  
+<a href="https://www.buymeacoffee.com/VaibhavJaiswal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=VaibhavJaiswal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 [website]: https://vaibhav2002.github.io
 [instagram]: https://www.instagram.com/vaibhav.jaiswal.2511/
