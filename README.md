@@ -1,4 +1,4 @@
-# Hello there, I'm [Vaibhav](https://vaibhav2002.github.io) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hello there, I'm [Vaibhav](https://vaibhavjaiswal.vercel.app) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -31,7 +31,6 @@
 <br />
 
 ---
-
   
 ### If you like my projects and want to support me to build more cool open source projects
   
