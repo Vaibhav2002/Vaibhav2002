@@ -26,6 +26,8 @@ jobs:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
           github_user_name: Vaibhav2002
+          
+          gif_out_path: dist/github-snake.gif
 
           # path of the generated svg file
           # If left empty, the svg file will not be generated
