@@ -1,0 +1,28 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v0.0.18
+        with:
+          # github user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
+          github_user_name: Vaibhav2002
+
+          # path of the generated svg file
+          # If left empty, the svg file will not be generated
+          svg_out_path: dist/github-snake.svg
