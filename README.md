@@ -69,9 +69,12 @@
 
  <h2 align="center"> Github Statistics 📈 </h2>
  
+ <p align="center">
+ 
 ![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green) <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vaibhav2002&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav2002&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+</p>
 ---
 
 [website]: https://vaibhav2002.github.io
