@@ -60,21 +60,20 @@
 <br/>
 
  <h2 align="center"> Github Statistics 📈 </h2>
- 
- <p align="center">
- 
-![Vaibhav2002's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=blue-green) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vaibhav2002&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav2002&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
-</p>
----
 
-[website]: https://vaibhav2002.github.io
-[instagram]: https://www.instagram.com/vaibhav.jaiswal.2511/
 
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vaibhav2002&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2002&layout=compact&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" width='100%'>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaibhav2002&theme=github-compact&hide_border=true" />
+</a>
 
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
-
-
-
-
