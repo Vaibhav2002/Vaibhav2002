@@ -81,7 +81,7 @@
 [instagram]: https://www.instagram.com/vaibhav.jaiswal.2511/
 
 
-![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
 
 
 
