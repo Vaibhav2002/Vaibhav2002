@@ -77,6 +77,19 @@
 </a>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 30 April 2023 - To: 06 May 2023
+
+Total Time: 16 hrs 21 mins
+
+TypeScript   16 hrs 5 mins   ████████████████████████▓   98.41 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
