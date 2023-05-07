@@ -29,18 +29,6 @@
 
 ---
 
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tn2xuvspbm3z7pyamk7esvxtmq)
-
-<img align='right' src="https://profile-counter.glitch.me/Vaibhav2002/count.svg" alt="Vaibhav2002 :: Visitor's Count" />
-
----
-
-
 ### Languages 🛠 
 [![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,ts,python,cpp,html,css)](https://skillicons.dev)
 
@@ -91,9 +79,5 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" width='100%'>
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaibhav2002&theme=github-compact&hide_border=true" />
-</a>
 
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
