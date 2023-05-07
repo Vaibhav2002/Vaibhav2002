@@ -1,8 +1,6 @@
 # This is a basic workflow to help you get started with Actions
+name: Contribution snake
 
-name: CI
-
-# Controls when the workflow will run
 on:
   push:
     branches: [ main ]
@@ -11,31 +9,21 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
+    name: Jobs to update snake grid
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v0.0.18
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
           github_user_name: Vaibhav2002
-          
-          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-contribution-snake.svg
 
-          # path of the generated svg file
-          # If left empty, the svg file will not be generated
-          svg_out_path: dist/github-snake.svg
-          
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
