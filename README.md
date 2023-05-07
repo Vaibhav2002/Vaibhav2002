@@ -72,9 +72,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vaibhav2002&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" width='100%'>
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaibhav2002&theme=github-compact&hide_border=true" />
-</a>
 
 <!--START_SECTION:waka-->
 
@@ -91,5 +88,9 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" width='100%'>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vaibhav2002&theme=github-compact&hide_border=true" />
+</a>
 
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
