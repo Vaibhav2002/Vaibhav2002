@@ -62,15 +62,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 22 May 2023
+From: 30 April 2023 - To: 23 May 2023
 
-Total Time: 95 hrs 4 mins
+Total Time: 101 hrs 10 mins
 
-TypeScript       91 hrs 35 mins  ████████████████████████░   96.34 %
-Markdown         1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JavaScript       37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-JSON             24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-.env file        24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript       97 hrs 30 mins  ████████████████████████░   96.37 %
+Markdown         1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JavaScript       37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+.env file        33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON             26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
