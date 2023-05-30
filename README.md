@@ -45,7 +45,6 @@
 ---
 
 <br/>
-
 <h2 align="center"> Github Statistics 📈 </h2>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
