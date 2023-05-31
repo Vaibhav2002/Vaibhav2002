@@ -45,7 +45,7 @@
 ---
 
 <br/>
-<h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Github Statistics 📈</h2>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=dark&hide_border=true" />
