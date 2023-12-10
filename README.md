@@ -32,7 +32,7 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,ts,python,cpp,html,css)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,ktor,nextjs,react,redux,mui,express,nodejs)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,ktor,nextjs,react,redux,mui,express,nodejs,tailwind)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,graphql,gcp,firebase,vercel,planetscale)](https://skillicons.dev)
