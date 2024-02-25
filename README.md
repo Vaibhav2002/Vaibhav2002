@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2023 - To: 24 February 2024
+From: 30 April 2023 - To: 25 February 2024
 
-Total Time: 898 hrs 31 mins
+Total Time: 901 hrs 54 mins
 
-Kotlin                 583 hrs 57 mins ████████████████▒░░░░░░░░   64.99 %
-TypeScript             239 hrs 15 mins ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-TOML                   9 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-XML                    8 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Kotlin                 586 hrs 55 mins ████████████████▒░░░░░░░░   65.08 %
+TypeScript             239 hrs 15 mins ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+TOML                   9 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+XML                    9 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Python                 8 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
