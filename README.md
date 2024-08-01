@@ -20,10 +20,10 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on Android Development, MERN Stack Development and Kotlin Multiplatform.
-- 📚 I’m currently learning everything about MERN Stack Development using NextJS 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play video games like CS:GO.
+- 👨‍💻 I’m currently working on Kotlin Multiplatform, Compose Multiplatform and Android Development.
+- 📚 I’m currently exploring Kotlin Multiplatform and harnessing the power of it at my org😅
+- 💪🏼 Future Goals: Peak out at Kotlin Multiplatform and Android development.
+- ⚡ Fun fact: I love to play video games.
 <br>
 
 ---
