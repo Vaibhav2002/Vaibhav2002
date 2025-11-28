@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2023 - To: 25 November 2025
+From: 30 April 2023 - To: 26 November 2025
 
-Total Time: 2,670 hrs 42 mins
+Total Time: 2,675 hrs 6 mins
 
-Kotlin                 2,020 hrs 59 mins███████████████████░░░░░░   75.67 %
-TypeScript             448 hrs 44 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Kotlin                 2,022 hrs 16 mins███████████████████░░░░░░   75.60 %
+TypeScript             451 hrs 33 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
 TOML                   42 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 XML                    25 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Text                   14 hrs 3 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JSON                   14 hrs 14 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
