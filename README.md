@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2023 - To: 04 June 2026
+From: 30 April 2023 - To: 06 June 2026
 
-Total Time: 3,167 hrs 54 mins
+Total Time: 3,169 hrs 48 mins
 
-Kotlin                 2,224 hrs 41 mins     █████████████████▓░░░░░░░   70.23 %
-TypeScript             667 hrs 43 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+Kotlin                 2,226 hrs 32 mins     █████████████████▓░░░░░░░   70.24 %
+TypeScript             667 hrs 43 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
 TOML                   45 hrs 45 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-XML                    27 hrs 50 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+XML                    27 hrs 52 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 JSON                   25 hrs 53 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
